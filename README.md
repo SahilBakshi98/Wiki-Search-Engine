@@ -1,4 +1,6 @@
-# Steps to run the code
+# Wikipedia Search Engine
+
+Steps to run the code -
 
 python3 wiki_indexer.py <dataDump>
 
